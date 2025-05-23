@@ -6,6 +6,8 @@ Landing Page:
 
 Dark/Light Mode:
 
+<img width="1079" alt="Image" src="https://github.com/user-attachments/assets/ee65c628-c926-4fe0-87c6-6faee6461a35" />
+
 Project:
 
 About:
