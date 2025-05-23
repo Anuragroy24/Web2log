@@ -18,3 +18,4 @@ About:
 
 Newsletter:
 
+<img width="1076" alt="Image" src="https://github.com/user-attachments/assets/29f751a9-234b-4015-9b9b-827035f3a7be" />
