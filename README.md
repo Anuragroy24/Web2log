@@ -14,5 +14,7 @@ Project:
 
 About:
 
+<img width="1079" alt="Image" src="https://github.com/user-attachments/assets/5225d4ce-987f-421d-ac1c-4c606fbc6e1c" />
+
 Newsletter:
 
