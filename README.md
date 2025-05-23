@@ -10,6 +10,8 @@ Dark/Light Mode:
 
 Project:
 
+<img width="1079" alt="Image" src="https://github.com/user-attachments/assets/0e031920-fc57-4a0c-9caa-6119d0b8c91f" />
+
 About:
 
 Newsletter:
