@@ -1,5 +1,4 @@
-Live Project : https://we2blog-anurags-projects-78f1bc9f.vercel.app/
-
+Live Project : https://web2log.vercel.app/
 Some Images of Web2log:
 
 Landing Page:
